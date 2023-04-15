@@ -12,6 +12,8 @@ In the first part of this series, we cover the following topics:
 3. Creating an Ethereum wallet using ethers.js
 4. Addressing security concerns and best practices for private key management
 
+https://medium.com/gitconnected/mastering-web3-typescript-and-security-build-and-safeguard-your-ethereum-wallet-with-next-js-8e45f675d9bd
+
 ### Getting Started
 1. Clone the repository:
 
@@ -21,7 +23,7 @@ git clone https://github.com/codewithrico/mastering-web3.git
 
 2. Change into the project directory:
 ```bash
-cd mastering-web3-part-1
+cd mastering-web3
 ```
 3. Install the dependencies:
 ```bash
